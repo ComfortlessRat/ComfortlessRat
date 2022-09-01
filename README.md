@@ -1,6 +1,6 @@
 - Hi, I’m known as ComfortlessRat, but you can call me KJ
-- I’m interested in Game development and cyber security but I allways interested in anything that will further my knowledge of the IT world.
-- I’m currently trying learn C++
+- I’m interested in Game development as well as cyber security but I always interested in anything that will further my knowledge of the IT world.
+- I’m currently learning C++ and continuing to further my knowledge on Python!
 
 
 <!---
